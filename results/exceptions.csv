@@ -1,0 +1,36 @@
+record_id,date,site,electricity_kwh,renewable_certificate_kwh,water_m3,waste_kg,recycle_pct,scope1_kgco2e,audit_status,source_row,issue
+LOG-00030,2025-03-19,Toronto Lab,3713.72,189.16,47.88,199.78,105.0,382.43,Overdue,32,recycle_pct > 100
+LOG-00031,2025-07-18,Frankfurt DC,2989.43,126.44,8.39,400.19,105.0,661.09,Complete,33,recycle_pct > 100
+LOG-00032,2025-12-28,Paris HQ,1577.84,5.88,14.43,77.22,105.0,731.87,Pending,34,recycle_pct > 100
+LOG-00033,2025-11-23,Singapore Hub,4133.53,96.85,42.52,488.31,105.0,422.78,Complete,35,recycle_pct > 100
+LOG-00034,2025-11-01,Paris HQ,1358.48,28.09,24.16,294.42,105.0,890.51,Pending,36,recycle_pct > 100
+LOG-00035,2025-04-22,Paris HQ,3841.63,124.5,6.33,151.86,105.0,354.43,Complete,37,recycle_pct > 100
+LOG-00036,2025-04-25,Singapore Hub,1201.44,1.98,66.82,330.0,105.0,828.99,Pending,38,recycle_pct > 100
+LOG-00037,2025-03-19,Austin Plant,656.03,192.78,53.56,293.96,105.0,769.31,Pending,39,recycle_pct > 100
+LOG-00038,2025-11-24,Frankfurt DC,1359.82,3.75,40.37,149.65,105.0,557.16,Overdue,40,recycle_pct > 100
+LOG-00039,2025-03-02,Bangalore Office,2666.63,77.08,53.56,127.57,105.0,313.26,Pending,41,recycle_pct > 100
+LOG-00040,2025-11-05,Austin Plant,1602.66,8.0,53.23,281.58,48.84,-125.0,Complete,42,negative scope1_kgco2e
+LOG-00041,2025-09-02,Toronto Lab,3864.68,183.03,50.39,184.45,60.84,-125.0,Complete,43,negative scope1_kgco2e
+LOG-00042,2025-08-19,Paris HQ,642.91,98.43,3.11,287.8,37.35,-125.0,Complete,44,negative scope1_kgco2e
+LOG-00043,2025-01-14,Singapore Hub,2721.68,123.75,45.58,17.2,41.36,-125.0,Pending,45,negative scope1_kgco2e
+LOG-00044,2025-09-12,Frankfurt DC,3637.82,85.12,5.61,208.22,30.05,-125.0,Complete,46,negative scope1_kgco2e
+LOG-00045,2025-06-08,Frankfurt DC,1087.48,74.4,16.01,495.04,78.24,-125.0,Complete,47,negative scope1_kgco2e
+LOG-00046,2025-10-31,Toronto Lab,3277.65,10.22,61.79,443.64,76.22,-125.0,Complete,48,negative scope1_kgco2e
+LOG-00047,2025-02-09,Austin Plant,3641.81,126.75,8.13,499.39,79.33,-125.0,Overdue,49,negative scope1_kgco2e
+LOG-00048,2025-04-12,Singapore Hub,3251.38,169.44,32.25,95.86,75.11,-125.0,Overdue,50,negative scope1_kgco2e
+LOG-00049,2025-05-23,Singapore Hub,1502.35,48.59,35.16,205.26,57.37,-125.0,Complete,51,negative scope1_kgco2e
+LOG-00000,2025-09-11,Toronto Lab,1794.8,62.36,48.32,333.51,62.0,321.87,Complete,62,duplicate record_id
+LOG-00001,2025-04-06,Paris HQ,3474.58,21.95,31.02,297.86,39.58,841.43,Pending,63,duplicate record_id
+LOG-00002,2025-11-05,Frankfurt DC,3111.77,169.72,7.88,219.07,60.09,76.16,Overdue,64,duplicate record_id
+LOG-00003,2025-01-08,Paris HQ,3106.04,176.52,23.97,246.8,44.92,573.46,Complete,65,duplicate record_id
+LOG-00004,2025-03-03,Frankfurt DC,3813.27,17.1,27.15,21.08,40.44,547.14,Pending,66,duplicate record_id
+LOG-00065,2025-05-20,Bangalore Office,-1.0,10.44,12.84,252.17,53.0,33.28,Overdue,67,negative electricity_kwh; certificates exceed electricity
+LOG-00066,2025-06-13,Bangalore Office,-1.0,183.85,26.01,350.83,50.06,634.11,Complete,68,negative electricity_kwh; certificates exceed electricity
+LOG-00067,2025-03-12,Frankfurt DC,-1.0,177.5,56.54,161.82,65.16,670.77,Complete,69,negative electricity_kwh; certificates exceed electricity
+LOG-00068,2025-09-07,Paris HQ,-1.0,164.67,17.33,272.96,44.32,580.22,Complete,70,negative electricity_kwh; certificates exceed electricity
+LOG-00069,2025-01-01,Singapore Hub,-1.0,35.01,32.23,244.16,82.52,231.47,Complete,71,negative electricity_kwh; certificates exceed electricity
+LOG-00070,2025-04-28,Frankfurt DC,1786.97,1787.97,12.22,222.83,47.6,753.61,Pending,72,certificates exceed electricity
+LOG-00071,2025-01-28,Frankfurt DC,2944.12,2945.12,33.21,381.22,83.61,737.0,Pending,73,certificates exceed electricity
+LOG-00072,2025-02-03,Singapore Hub,510.45,511.45,51.52,322.4,70.91,179.8,Pending,74,certificates exceed electricity
+LOG-00073,2025-05-28,Toronto Lab,2715.61,2716.61,23.64,29.71,48.9,56.48,Complete,75,certificates exceed electricity
+LOG-00074,2025-02-14,Austin Plant,3821.59,3822.59,10.09,112.02,82.71,451.46,Complete,76,certificates exceed electricity

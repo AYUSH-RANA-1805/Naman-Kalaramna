@@ -1,0 +1,19 @@
+site,audit_status,records
+Austin Plant,Complete,193
+Austin Plant,Overdue,57
+Austin Plant,Pending,96
+Bangalore Office,Complete,192
+Bangalore Office,Overdue,56
+Bangalore Office,Pending,90
+Frankfurt DC,Complete,195
+Frankfurt DC,Overdue,40
+Frankfurt DC,Pending,97
+Paris HQ,Complete,164
+Paris HQ,Overdue,51
+Paris HQ,Pending,109
+Singapore Hub,Complete,170
+Singapore Hub,Overdue,44
+Singapore Hub,Pending,106
+Toronto Lab,Complete,182
+Toronto Lab,Overdue,45
+Toronto Lab,Pending,78

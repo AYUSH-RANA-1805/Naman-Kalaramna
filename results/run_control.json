@@ -1,0 +1,9 @@
+{
+  "source_rows": 2000,
+  "accepted_rows": 1965,
+  "rejected_rows": 35,
+  "reconciles": true,
+  "factor_status": "illustrative",
+  "inventory_status": "demonstration only",
+  "source_file": "synthetic_facility_logs.csv"
+}
