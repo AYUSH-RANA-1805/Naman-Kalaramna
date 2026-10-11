@@ -1,0 +1,5 @@
+factor_id,category,kgco2e_per_unit,unit,source,status,version
+ELEC_DEMO,scope2_location,0.4,kWh,Illustrative training assumption; replace with approved site/year grid factor,illustrative,2026-10-11
+WATER_DEMO,scope3_purchased_water,0.3,m3,Illustrative training assumption; replace with approved water supply/treatment factor,illustrative,2026-10-11
+LANDFILL_DEMO,scope3_waste_landfill,0.5,kg,Illustrative training assumption; replace with approved waste treatment factor,illustrative,2026-10-11
+RECYCLE_DEMO,scope3_waste_recycled,0.05,kg,Illustrative training assumption; replace with approved waste treatment factor,illustrative,2026-10-11
